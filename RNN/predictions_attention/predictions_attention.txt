@@ -1,0 +1,139 @@
+Incorrect
+-
+Input sentence:  lalak   length=  7
+output sentence:  ललक   length=  5
+Decoded sentence: लालक
+---------
+
+Incorrect
+-
+Input sentence:  retreate   length=  10
+output sentence:  रीट्वीट   length=  9
+Decoded sentence: रेट्रेट
+---------
+
+Correct
+-
+Input sentence:  jaanam   length=  8
+output sentence:  जानम   length=  6
+Decoded sentence: जानम
+---------
+
+Correct
+-
+Input sentence:  saptakranti   length=  13
+output sentence:  सप्तक्रांति   length=  13
+Decoded sentence: सप्तक्रांति
+---------
+
+Incorrect
+-
+Input sentence:  diphtheria   length=  12
+output sentence:  डिप्थीरिया   length=  12
+Decoded sentence: डिप्टेरिया
+---------
+
+Correct
+-
+Input sentence:  anik   length=  6
+output sentence:  अनिक   length=  6
+Decoded sentence: अनिक
+---------
+
+Correct
+-
+Input sentence:  sagrika   length=  9
+output sentence:  सागरिका   length=  9
+Decoded sentence: सागरिका
+---------
+
+Incorrect
+-
+Input sentence:  singar   length=  8
+output sentence:  सिंगार   length=  8
+Decoded sentence: सिंगर
+---------
+
+Incorrect
+-
+Input sentence:  khuda   length=  7
+output sentence:  खुदा   length=  6
+Decoded sentence: खुड़ा
+---------
+
+Correct
+-
+Input sentence:  anyay   length=  7
+output sentence:  अन्याय   length=  8
+Decoded sentence: अन्याय
+---------
+
+Incorrect
+-
+Input sentence:  routing   length=  9
+output sentence:  रूटिंग   length=  8
+Decoded sentence: राउटिंग
+---------
+
+Correct
+-
+Input sentence:  jimme   length=  7
+output sentence:  जिम्मे   length=  8
+Decoded sentence: जिम्मे
+---------
+
+Incorrect
+-
+Input sentence:  bells   length=  7
+output sentence:  बैल्स   length=  7
+Decoded sentence: बेल्स
+---------
+
+Correct
+-
+Input sentence:  yashpaal   length=  10
+output sentence:  यशपाल   length=  7
+Decoded sentence: यशपाल
+---------
+
+Correct
+-
+Input sentence:  chkkar   length=  8
+output sentence:  चक्कर   length=  7
+Decoded sentence: चक्कर
+---------
+
+Correct
+-
+Input sentence:  ditaa   length=  7
+output sentence:  दिता   length=  6
+Decoded sentence: दिता
+---------
+
+Correct
+-
+Input sentence:  naakaam   length=  9
+output sentence:  नाकाम   length=  7
+Decoded sentence: नाकाम
+---------
+
+Correct
+-
+Input sentence:  achambha   length=  10
+output sentence:  अचंभा   length=  7
+Decoded sentence: अचंभा
+---------
+
+Correct
+-
+Input sentence:  jaanam   length=  8
+output sentence:  जानम   length=  6
+Decoded sentence: जानम
+---------
+
+Incorrect
+-
+Input sentence:  chunar   length=  8
+output sentence:  चूनर   length=  6
+Decoded sentence: चुनर
+---------
