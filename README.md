@@ -2,4 +2,13 @@
 
 Coursework at IITMadras
 
-Professor: Mitesh kharpa
+**Students**: 
+
+Priyanka Bedekar
+
+Sushane Parthan
+
+
+**Professor**: 
+
+Mitesh kharpa
