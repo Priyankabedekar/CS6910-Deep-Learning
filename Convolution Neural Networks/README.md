@@ -1,3 +1,8 @@
+
+## Link to report:
+
+https://wandb.ai/sushane/cs6910-assignment-2/reports/Assignment-2--Vmlldzo2MTYyMjE .
+
 # YOLO:
 
 ## Instructions:
