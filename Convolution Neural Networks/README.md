@@ -1,4 +1,4 @@
-# Part C:
+# YOLO:
 
 ## Instructions:
 1. Part A is uploaded as 2 .py files.
@@ -7,3 +7,6 @@
 4. Both are Python executable files.
 5. To execute, you are required to download the files yolov3.cfg, yolov3.weights, and coco.names from Darknet: https://pjreddie.com/darknet/ .
 6. Downloaded files should be in the same folder as the Python files. 
+
+**Link to video**
+https://youtu.be/P-7_pUeQWBA
